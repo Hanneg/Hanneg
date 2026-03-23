@@ -1,4 +1,10 @@
 ## Hi there 👋
+```bash
+hanneg@system:~$ whoami
+> 👋 Hi, my nanm is Fernanda Flórez Hereña
+hanneg@system:~$ cat habilidades.txt
+> Python, JavaScript, Docker, SQL
+hanneg@systems:~$ 
 
 <!--
 **Hanneg/Hanneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
