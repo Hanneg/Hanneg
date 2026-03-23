@@ -1,22 +1,21 @@
-## Hi there 👋
 ```bash
 hanneg@system:~$ whoami
-> 👋 Hi, my nanm is Fernanda Flórez Hereña
-hanneg@system:~$ cat habilidades.txt
-> Python, JavaScript, Docker, SQL
-hanneg@systems:~$ 
-
-<!--
-**Hanneg/Hanneg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>  Hi, my nanm is Fernanda Flórez Hereña
+hanneg@system:~$ mission
+> Building systems, do research with data and exploring how art can change our point of view
+hanneg@systems:~$ Skills
+> Languages: Python, Javascript, SQL
+hanneg@systems:~$ Skills
+> Languages: Python, Javascript, SQL
+hanneg@systems:~$ Skills
+> Languages: Python, Javascript, SQL
+> Frontend: React, HTML, CSS
+> Backend: Node, APIs
+> Data: SQL Server, PostgreSQL, SPSS, MySQL
+> Tools: Git, Docker
+hanneg@systems:~$ Projects
+> project_data_dashboard
+> project_we_app
+hanneg@systems:~$ contact
+> gmail
+> linkedin
